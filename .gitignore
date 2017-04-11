@@ -1,0 +1,15 @@
+*.suo
+Debug/JZO.exe
+/Debug
+/Solution
+/x64
+/.vs
+*.sdf
+JianZhiOffer.sln
+/JianZhiOffer.VC.db
+/JianZhiOffer.sdf
+/JianZhiOffer.sln
+/JianZhiOffer.v12.suo
+*.user
+JZO/JZO.vcxproj.filters
+/JZO
