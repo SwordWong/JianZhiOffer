@@ -1,7 +1,6 @@
 *.suo
 Debug/JZO.exe
 /Debug
-/Solution
 /x64
 /.vs
 *.sdf
